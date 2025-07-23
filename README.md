@@ -1,3 +1,6 @@
+SEO:
+https://www.bing.com/webmasters?siteUrl=https%3A%2F%2Flakecottagerental.com%2F
+
 # Carousel full cover template for Bootstrap 5
 
 
